@@ -1,6 +1,7 @@
 ## Hi there, I'm Tobii (Second i is silent) 👋
 
-I'm stupid
+I like game engines :)
+
 <!--
 **tobiaseisinger/tobiaseisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
